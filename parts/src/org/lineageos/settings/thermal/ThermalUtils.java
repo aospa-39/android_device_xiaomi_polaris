@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.lineageos.settings.thermal;
+package net.pixelos.settings.thermal;
 
 import android.content.Context;
 import android.content.Intent;

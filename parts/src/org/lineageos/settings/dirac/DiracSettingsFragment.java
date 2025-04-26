@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.lineageos.settings.dirac;
+package net.pixelos.settings.dirac;
 
 import android.os.Bundle;
 import android.widget.CompoundButton;
@@ -26,7 +26,7 @@ import androidx.preference.PreferenceFragment;
 
 import com.android.settingslib.widget.MainSwitchPreference;
 
-import org.lineageos.settings.R;
+import net.pixelos.settings.R;
 
 public class DiracSettingsFragment extends PreferenceFragment implements
         Preference.OnPreferenceChangeListener, CompoundButton.OnCheckedChangeListener {
